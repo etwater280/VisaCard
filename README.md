@@ -21,16 +21,17 @@
 
 美国的服务和产品常常只针对美国及其盟友开放，使用美国Visa/MasterCard虚拟信用卡可以激活和使用这些服务。例如，ChatGPT、Google、AppStore等。
 
-### Fomepay虚拟信用卡
+### WildCard虚拟信用卡
 
-**Fomepay** 是一款广受推荐的虚拟信用卡，特点是：
+**WildCard** 是一款广受推荐的虚拟信用卡，特点是：
 
-- 申请容易，无年费
+- 申请容易，低年费
 - 最低充值金额22美元
 - 支持微信、支付宝、USDT充值
 - 支持ChatGPT Plus等多种服务
 
-![image](https://github.com/etwater280/VisaCard/assets/169781600/ce7cb2ff-43cc-4088-b894-79cc2c60f0c8)
+![image](https://github.com/user-attachments/assets/3b656ed8-b610-4d10-817e-73344aff4cd0)
+
 
 #### 核心业务领域
 
@@ -38,13 +39,12 @@
 - 快速开户，提供低成本高效率的本地银行账户
 - 快速提现，支持主流平台订单自动同步
 - 优惠费率，费率远低于行业水平
-- 持有美国MSB金融牌照、香港MSO牌照
 
-[注册 Fomepay 虚拟卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[注册 WildCard 虚拟卡](https://bit.ly/bewildcard)
 
-邀请码：`Q3DD80`
+邀请码：`ACCPAY`
 
-**注册邀请码**：`Q3DD80` → [注册入口](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+**注册邀请码**：`ACCPAY` → [注册入口](https://bit.ly/bewildcard)
 
 - 充值方式：支付宝、微信、USDT
 - 无需KYC、无年费
